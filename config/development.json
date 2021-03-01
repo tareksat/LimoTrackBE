@@ -1,0 +1,6 @@
+{
+  "name": "Server",
+  "jwtPrivateKey": "",
+  "db": "mongodb://localhost/gps",
+  "port": 3005
+}
